@@ -12,7 +12,7 @@ def BeNegative(sentence):
     print("Отрицательная форма:", negative_string)
     return negative_string
 
-sentence = input("Напишите предложение с THERE IS/ARE")
+sentence = input("Напишите предложение с THERE IS/ARE:   ")
 BeNegative(sentence)
 
 
